@@ -13,10 +13,12 @@ A small Chrome extension for setting healthier boundaries around distracting web
 
 ## Install locally
 
-1. Download or clone this repository.
+1. [Download the latest project ZIP](https://github.com/AdysonReales/Simple-Web-Blocker/archive/refs/heads/main.zip), extract it, or clone this repository.
 2. Open `chrome://extensions` in Chrome or a Chromium-based browser.
 3. Enable **Developer mode**, choose **Load unpacked**, and select the repository folder containing `manifest.json`.
 4. Pin the extension, open its popup, and add a domain such as `example.com`.
+
+The ZIP contains the extension source; it is not an automatically installed Chrome Web Store package.
 
 The extension requests access to tabs and websites to identify the active site and redirect blocked pages. Settings and usage history stay in the browser's local extension storage; no analytics server is used. Browsing time is sampled once per minute while a normal browser window is focused, so it is approximate and can miss short visits. History older than 30 days is removed when tracking runs.
 
