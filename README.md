@@ -1,6 +1,6 @@
-# Focus Space · Simple Web Blocker
+# Simple Web Blocker
 
-A small Chrome extension for setting healthier boundaries around distracting websites. Built with vanilla JavaScript, HTML, and CSS, Focus Space turns a simple site blocker into a compact digital wellbeing dashboard.
+A small Chrome extension for setting healthier boundaries around distracting websites. Built with vanilla JavaScript, HTML, and CSS, Simple Web Blocker turns a site blocker into a compact digital wellbeing dashboard.
 
 ## Features
 
@@ -32,6 +32,7 @@ src/background/index.js   Blocking, schedules, and usage tracking
 src/popup/                Popup interface and interactions
 src/blocked/              Focus screen shown for blocked sites
 src/styles/main.css       Shared visual styles
+assets/icons/             Extension and interface logo
 ```
 
 ## Notes and limitations
