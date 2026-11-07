@@ -2,6 +2,12 @@
 
 A small Chrome extension for setting healthier boundaries around distracting websites. Built with vanilla JavaScript, HTML, and CSS, Simple Web Blocker turns a site blocker into a compact digital wellbeing dashboard.
 
+## Preview
+
+| Block list | Categories | Insights |
+| :---: | :---: | :---: |
+| ![Block list and website controls](docs/screenshots/block-list.png) | ![Curated website categories](docs/screenshots/categories.png) | ![Daily browsing insights](docs/screenshots/insights.png) |
+
 ## Features
 
 - **Block list:** block individual domains and their subdomains all day.
