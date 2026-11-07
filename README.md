@@ -4,9 +4,41 @@ A small Chrome extension for setting healthier boundaries around distracting web
 
 ## Preview
 
-| Block list | Categories | Insights |
-| :---: | :---: | :---: |
-| ![Block list and website controls](docs/screenshots/block-list.png) | ![Curated website categories](docs/screenshots/categories.png) | ![Daily browsing insights](docs/screenshots/insights.png) |
+### Your focus dashboard
+
+Add websites, choose a blocking mode, and set a schedule that fits your day.
+
+<table>
+  <tr>
+    <th>Block list</th>
+    <th>Scheduled blocking</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/block-list.png" alt="Block list dashboard" width="360"></td>
+    <td align="center"><img src="docs/screenshots/schedule.png" alt="Schedule settings with selected days and times" width="360"></td>
+  </tr>
+</table>
+
+### Categories and insights
+
+Block a curated group of sites or review your approximate browsing activity.
+
+<table>
+  <tr>
+    <th>Categories</th>
+    <th>Usage insights</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/categories.png" alt="Category blocking controls" width="360"></td>
+    <td align="center"><img src="docs/screenshots/insights.png" alt="Daily and weekly browsing insights" width="360"></td>
+  </tr>
+</table>
+
+### A gentle reminder
+
+When a site is blocked, the focus screen offers a moment to pause and get back to your plans.
+
+<img src="docs/screenshots/focus-screen.png" alt="Focus screen shown when a site is blocked" width="640">
 
 ## Features
 
